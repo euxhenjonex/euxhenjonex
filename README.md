@@ -36,7 +36,7 @@ Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho im
 `Supabase` `PostgreSQL` `Neon` `Pinecone` `ChromaDB`
 
 **Hosting & Deploy**
-`Vercel` `Docker` `VPS (OVHcloud, Hetzner)`
+`Vercel` `Docker` `VPS (OVHcloud, Hetzner, Hostinger)` `DNS/Subdomini`
 
 **Pagamenti & Email**
 `Stripe` `Resend` `Brevo` `AgentMail`
