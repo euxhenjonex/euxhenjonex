@@ -10,7 +10,7 @@ Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho im
 
 🤖 **Automazioni intelligenti** — Collego strumenti e creo flussi di lavoro che risparmiano ore ogni giorno
 
-💬 **Assistenti AI** — Chatbot e assistenti che rispondono ai clienti, cercano informazioni, gestiscono richieste
+💬 **Assistenti AI e chatbot** — Chatbot testuali e vocali che rispondono ai clienti, gestiscono prenotazioni, inviano reminder
 
 🌐 **Siti web moderni** — Veloci, ottimizzati, con AI integrata
 
@@ -20,13 +20,32 @@ Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho im
 
 ### Il mio stack
 
-```
-Automazione    →  n8n, Make, Zapier
-AI & LLM       →  OpenAI, Claude, LangChain
-Web            →  Next.js, React, Tailwind, Vercel
-Database       →  Supabase, PostgreSQL, ChromaDB
-Tools          →  Claude Code, GitHub Copilot, Codex
-```
+**AI & Intelligenza Artificiale**
+`ChatGPT` `Claude` `Gemini` `OpenAI API` `Claude API` `Pydantic AI` `LangChain` `LlamaIndex` `ElevenLabs`
+
+**Automazione**
+`n8n` `Flowise` `Botpress`
+
+**Web Development**
+`Next.js` `React` `Tailwind CSS` `shadcn/ui` `Lucide Icons`
+
+**Vibe Coding & AI-assisted Dev**
+`Claude Code` `Codex CLI` `Cursor` `Lovable` `VS Code` `Antigravity`
+
+**Database**
+`Supabase` `PostgreSQL` `Neon` `Pinecone` `ChromaDB`
+
+**Hosting & Deploy**
+`Vercel` `Docker` `VPS (OVHcloud, Hetzner)`
+
+**Pagamenti & Email**
+`Stripe` `Resend` `Brevo` `AgentMail`
+
+**Immagini AI**
+`ChatGPT Image` `Nano Banana` `LoveArt`
+
+**Analytics & SEO**
+`Google Analytics` `Google Search Console`
 
 ---
 
@@ -38,6 +57,12 @@ Tools          →  Claude Code, GitHub Copilot, Codex
 | [**Learn AI with RAG**](https://github.com/euxhenjonex/learn-ai-with-rag) | Tutor AI interattivo che ti insegna l'intelligenza artificiale passo dopo passo |
 | [**AI Engineering Hub**](https://github.com/euxhenjonex/ai-engineering-hub) | Tutorial approfonditi su LLM, RAG e applicazioni AI nel mondo reale |
 | [**Claude Stats Pro**](https://github.com/euxhenjonex/claude-stats-pro) | Status bar minimale per Claude Code — modello, contesto, tempo sessione |
+
+---
+
+### Un progetto che mi rende orgoglioso
+
+🎙️ **Chatbot vocale per ristorante** — Un assistente AI che risponde al telefono, prende le prenotazioni collegandosi a Google Calendar, e invia reminder via WhatsApp. Costruito con ElevenLabs + n8n + OpenAI. Il ristorante ha smesso di perdere prenotazioni.
 
 ---
 
