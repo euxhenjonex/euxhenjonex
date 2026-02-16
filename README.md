@@ -1,20 +1,20 @@
 # Ciao, sono Nex 👋
 
-**AI Specialist** | Automazione e intelligenza artificiale per aziende che vogliono fare di piu, con meno.
+**AI Builder** | Creo automazioni e agenti AI che fanno risparmiare tempo e aumentano il fatturato.
 
-Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho imparato costruendo. Ogni giorno lavoro con l'intelligenza artificiale per risolvere problemi reali: automatizzare processi, creare assistenti virtuali, costruire siti che lavorano da soli.
+Da operaio in autostrada a AI specialist.
+Non vengo da un background informatico: ho imparato costruendo, ogni giorno.. 
+Ogni giorno lavoro con l'intelligenza artificiale per risolvere problemi reali: automatizzare processi, creare assistenti virtuali, costruire siti che lavorano da soli.
 
 ---
 
 ### Cosa faccio
 
-🤖 **Automazioni intelligenti** — Collego strumenti e creo flussi di lavoro che risparmiano ore ogni giorno
+🤖 **Automazioni intelligenti** — Collego strumenti e creo flussi di lavoro che eliminano lavoro manuale (email, CRM, follow-up, operazioni interne)o
 
-💬 **Assistenti AI e chatbot** — Chatbot testuali e vocali che rispondono ai clienti, gestiscono prenotazioni, inviano reminder
+💬 **Agenti AI e chatbot (Text & Voice)** — Chatbot testuali e vocali che rispondono ai clienti, gestiscono prenotazioni, inviano reminder
 
 🌐 **Siti web moderni** — Veloci, ottimizzati, con AI integrata
-
-📊 **Consulenza AI per PMI** — Aiuto le aziende italiane a capire dove l'AI puo fare la differenza
 
 ---
 
@@ -53,24 +53,17 @@ Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho im
 
 | Progetto | Cosa fa |
 |----------|---------|
-| [**DocuChat**](https://github.com/euxhenjonex/docuchat) | Carica documenti e chatta con loro usando l'AI — ricerca semantica in tempo reale |
+| [**DocuChat**](https://github.com/euxhenjonex/docuchat) | Chatta con documenti tramite AI (RAG + ricerca semantica) |
 | [**Learn AI with RAG**](https://github.com/euxhenjonex/learn-ai-with-rag) | Tutor AI interattivo che ti insegna l'intelligenza artificiale passo dopo passo |
-| [**Ral Calculator - JetHR**](https://github.com/euxhenjonex/ralcalculator-jetHR) | Calcola lo stipendio netto annuale e mensile partendo dalla RAL, con breakdown fiscale |
-| [**Claude Stats Pro**](https://github.com/euxhenjonex/claude-stats-pro) | Status bar minimale per Claude Code — modello, contesto, tempo sessione |
+| [**Ral Calculator - JetHR**](https://github.com/euxhenjonex/ralcalculator-jetHR) | Calcolatore netto da RAL con breakdown fiscale aggiornato |
+| [**Claude Stats Pro**](https://github.com/euxhenjonex/claude-stats-pro) | Tool per Claude Code per monitorare sessione e contesto |
 
 ---
 
-### Un progetto che mi rende orgoglioso
+### Caso reale
 
-🎙️ **Chatbot vocale per ristorante** — Un assistente AI che risponde al telefono, prende le prenotazioni collegandosi a Google Calendar, e invia reminder via WhatsApp. Costruito con ElevenLabs + n8n + OpenAI. Il ristorante ha smesso di perdere prenotazioni.
-
----
-
-### Numeri
-
-- 🏗️ **3 clienti** serviti con soluzioni AI personalizzate
-- ⚡ **Ore risparmiate** ai clienti ogni settimana grazie alle automazioni
-- 📝 **Contenuti quotidiani** su AI e automazione per il mercato italiano
+🎙️ **AI Voice Agent per ristorante** — Un assistente AI che risponde al telefono, prende le prenotazioni collegandosi a Google Calendar, e invia reminder via WhatsApp. Costruito con ElevenLabs + n8n + OpenAI.
+Risultato: meno prenotazioni perse e meno lavoro manuale
 
 ---
 
