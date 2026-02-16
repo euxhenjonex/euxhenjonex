@@ -55,7 +55,7 @@ Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho im
 |----------|---------|
 | [**DocuChat**](https://github.com/euxhenjonex/docuchat) | Carica documenti e chatta con loro usando l'AI — ricerca semantica in tempo reale |
 | [**Learn AI with RAG**](https://github.com/euxhenjonex/learn-ai-with-rag) | Tutor AI interattivo che ti insegna l'intelligenza artificiale passo dopo passo |
-| [**AI Engineering Hub**](https://github.com/euxhenjonex/ai-engineering-hub) | Tutorial approfonditi su LLM, RAG e applicazioni AI nel mondo reale |
+| [**Ral Calculator - JetHR**](https://github.com/euxhenjonex/ralcalculator-jetHR) | Calcola lo stipendio netto annuale e mensile partendo dalla RAL, con breakdown fiscale |
 | [**Claude Stats Pro**](https://github.com/euxhenjonex/claude-stats-pro) | Status bar minimale per Claude Code — modello, contesto, tempo sessione |
 
 ---
@@ -82,4 +82,4 @@ Da operaio in autostrada a specialista AI. Non ho studiato informatica — ho im
 
 ---
 
-<sub>🔴 Questo profilo e potenziato da Morpheus — il mio agente AI che lavora 24/7</sub>
+<sub>🔴 Questo profilo e potenziato da Achille — il mio agente AI che lavora 24/7</sub>
