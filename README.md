@@ -3,7 +3,7 @@
 **AI Builder** | Creo automazioni e agenti AI che fanno risparmiare tempo e aumentano il fatturato.
 
 Da operaio in autostrada a AI specialist.
-Non vengo da un background informatico: ho imparato costruendo, ogni giorno.. 
+Non vengo da un background informatico: ho imparato costruendo.
 Ogni giorno lavoro con l'intelligenza artificiale per risolvere problemi reali: automatizzare processi, creare assistenti virtuali, costruire siti che lavorano da soli.
 
 ---
