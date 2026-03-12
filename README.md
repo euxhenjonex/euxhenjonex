@@ -1,77 +1,71 @@
-# Ciao, sono Nex 👋
+# Hey, I'm Nex
 
-**AI Builder** | Creo automazioni e agenti AI che fanno risparmiare tempo e aumentano il fatturato.
+**AI Specialist** building automation systems and AI agents that save time and drive revenue.
 
-Da operaio in autostrada a AI specialist.
-Ogni giorno lavoro con l'intelligenza artificiale per risolvere problemi reali: automatizzare processi, creare assistenti virtuali, costruire siti che lavorano da soli.
-
----
-
-### Cosa faccio
-
-🤖 **Automazioni intelligenti** — Collego strumenti e creo flussi di lavoro che eliminano lavoro manuale (email, CRM, follow-up, operazioni interne)o
-
-💬 **Agenti AI e chatbot (Text & Voice)** — Chatbot testuali e vocali che rispondono ai clienti, gestiscono prenotazioni, inviano reminder
-
-🌐 **Siti web moderni** — Veloci, ottimizzati, con AI integrata
+From highway construction worker to AI specialist — self-taught, building every day.
+I work with AI to solve real problems: automating business processes, building voice and text agents, creating intelligent systems that work autonomously.
 
 ---
 
-### Il mio stack
+### What I Do
 
-**AI & Intelligenza Artificiale**
-`ChatGPT` `Claude` `Gemini` `OpenAI API` `Claude API` `Pydantic AI` `LangChain` `LlamaIndex` `ElevenLabs`
+**AI Agents & Automation** — End-to-end AI solutions for businesses: voice agents that answer phones and book appointments, chatbots that handle customer support, workflow automation that eliminates manual work.
 
-**Automazione**
-`n8n` `Flowise` `Botpress`
+**AI Engineering** — RAG pipelines, LLM integration, structured output with Pydantic, multi-model evaluation, NLP with HuggingFace Transformers.
+
+**Web Development** — Fast, modern websites with integrated AI capabilities.
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**AI Engineer Portfolio**](https://github.com/euxhenjonex/ai-engineer-portfolio) | 8 projects covering OpenAI API, RAG, LangChain, HuggingFace, Pydantic, multi-LLM benchmarking, Gradio | Python, LangChain, ChromaDB, HuggingFace, Pydantic, Gradio |
+| [**DocuChat**](https://github.com/euxhenjonex/docuchat) | Chat with business documents using RAG and semantic search | Next.js, ChromaDB, OpenAI Embeddings |
+| [**Learn AI with RAG**](https://github.com/euxhenjonex/learn-ai-with-rag) | Interactive AI tutor that teaches artificial intelligence step by step | RAG, OpenAI API |
+| [**Claude Stats Pro**](https://github.com/euxhenjonex/claude-stats-pro) | Session and context monitoring tool for Claude Code | Claude Code |
+
+---
+
+### Real-World Impact
+
+**AI Voice Agent for a Restaurant** — Built an AI assistant that answers phone calls, takes reservations via Google Calendar, and sends WhatsApp reminders. Stack: ElevenLabs + n8n + OpenAI. Result: ~50 calls/weekend handled autonomously, zero manual intervention.
+
+**Customer Automation for a Tire Shop** — Automated appointment reminders, follow-ups, and Google review collection. Stack: n8n + Twilio WhatsApp + Google Calendar. Result: 300+ appointments/month managed.
+
+---
+
+### Tech Stack
+
+**AI & LLM APIs**
+`OpenAI API` `Claude API` `Gemini API` `OpenRouter` `ElevenLabs` `Fal.ai`
+
+**ML & NLP**
+`HuggingFace Transformers` `DistilBERT` `FinBERT` `Pipelines` `Tokenizers`
+
+**AI Frameworks**
+`LangChain` `Pydantic` `Gradio` `OpenAI Agents SDK` `MCP`
+
+**RAG & Vector Search**
+`ChromaDB` `Pinecone` `pgvector` `OpenAI Embeddings`
+
+**Automation**
+`n8n` `Twilio WhatsApp` `Google Calendar API` `Stripe` `Composio`
 
 **Web Development**
-`Next.js` `React` `Tailwind CSS` `shadcn/ui` `Lucide Icons`
+`Python` `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
-**Vibe Coding & AI-assisted Dev**
-`Claude Code` `Codex CLI` `Cursor` `Lovable` `VS Code` `Antigravity`
+**AI-Assisted Development**
+`Claude Code` `Codex CLI` `Cursor` `Lovable`
 
-**Database**
-`Supabase` `PostgreSQL` `Neon` `Pinecone` `ChromaDB`
-
-**Hosting & Deploy**
-`Vercel` `Docker` `VPS (OVHcloud, Hetzner, Hostinger)` `DNS/Subdomini`
-
-**Pagamenti & Email**
-`Stripe` `Resend` `Brevo` `AgentMail`
-
-**Immagini AI**
-`ChatGPT Image` `Nano Banana` `LoveArt`
-
-**Analytics & SEO**
-`Google Analytics` `Google Search Console`
+**Database & Cloud**
+`Supabase` `PostgreSQL` `Neon` `Vercel` `Docker` `Hetzner`
 
 ---
 
-### Progetti in evidenza
-
-| Progetto | Cosa fa |
-|----------|---------|
-| [**DocuChat**](https://github.com/euxhenjonex/docuchat) | Chatta con documenti tramite AI (RAG + ricerca semantica) |
-| [**Learn AI with RAG**](https://github.com/euxhenjonex/learn-ai-with-rag) | Tutor AI interattivo che ti insegna l'intelligenza artificiale passo dopo passo |
-| [**Ral Calculator - JetHR**](https://github.com/euxhenjonex/ralcalculator-jetHR) | Calcolatore netto da RAL con breakdown fiscale aggiornato |
-| [**Claude Stats Pro**](https://github.com/euxhenjonex/claude-stats-pro) | Tool per Claude Code per monitorare sessione e contesto |
-
----
-
-### Caso reale
-
-🎙️ **AI Voice Agent per ristorante** — Un assistente AI che risponde al telefono, prende le prenotazioni collegandosi a Google Calendar, e invia reminder via WhatsApp. Costruito con ElevenLabs + n8n + OpenAI.
-Risultato: meno prenotazioni perse e meno lavoro manuale
-
----
-
-### Dove trovarmi
+### Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euxhenjonex/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/euxhenjonex)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.euxhenjonex.com/)
-
----
-
-<sub>🔴 Questo profilo e potenziato da Achille — il mio agente AI che lavora 24/7</sub>
