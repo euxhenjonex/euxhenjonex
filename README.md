@@ -2,7 +2,7 @@
 
 **AI Automation Specialist.** Porto agenti AI e automazioni dentro i processi reali delle aziende: telefonate, prenotazioni, WhatsApp, pagamenti, raccolta dati.
 
-Parto dal processo, non dalla tecnologia. Prima di lavorare con l'AI ho guidato per oltre 10 anni squadre operative nei cantieri, e oggi coordino un team di 15 persone. Per questo progetto soluzioni che le persone usano davvero, e le seguo fino al collaudo con chi le userà.
+Parto dal processo, non dalla tecnologia. Prima di lavorare con l'AI sono stato per oltre 10 anni capo squadra nei cantieri, e dal 2024 sono responsabile della sicurezza e di un team di 15 persone. Per questo progetto soluzioni che le persone usano davvero, e le seguo fino al collaudo con chi le userà.
 
 ---
 
